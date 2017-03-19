@@ -2,8 +2,6 @@ Coursera Getting and Cleaning Data Final Project
 ------------------------------------------------
 Sean Caron
 
-scaron@umich.edu
-
 Usage
 -----
 Extract the UCI HAR data. Place this script at the root of the extracted data. Run R and execute
