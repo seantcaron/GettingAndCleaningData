@@ -1,6 +1,8 @@
 Coursera Getting and Cleaning Data Final Project Codebook
 ---------------------------------------------------------
 
+This codebook describes the schema of the output of run_analysis.R
+
 * subject.id
 
 Subject ID of participant: 1-30
