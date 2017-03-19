@@ -1,6 +1,7 @@
 Coursera Getting and Cleaning Data Final Project
 ------------------------------------------------
 Sean Caron
+
 scaron@umich.edu
 
 Usage
